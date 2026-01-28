@@ -406,7 +406,7 @@ export const projects = [
       imgMyPortfolioApp3,
       imgMyPortfolioApp4,
     ],
-    code: 'https://github.com/VerkaLev/',
-    demo: '',
+    code: 'https://github.com/VerkaLev/kliauko-portfolio',
+    demo: 'kliauko-portfolio.vercel.app',
   },
 ];
