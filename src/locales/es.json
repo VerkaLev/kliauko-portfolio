@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Portafolio de Veranika Kliauko",
+    "description": "Sitio web de portafolio de Veranika Kliauko, desarrolladora frontend. Proyectos, habilidades y contactos."
+  },
+  "MainHeader": {
+    "name": "Veranika Kliauko",
+    "short_name": "VK",
+    "about": "Sobre mí",
+    "skills": "Habilidades",
+    "portfolio": "Portafolio",
+    "contact": "Contacto",
+    "close_menu": "Cerrar menú",
+    "open_menu": "Abrir menú",
+    "open_lang_menu": "Abrir menú de idiomas",
+    "aria_languages": "Idiomas",
+    "aria_change_lang": "Cambiar idioma a"
+  },
+  "About": {
+    "greeting": "Hola, me llamo",
+    "name": "Veranika",
+    "text_1": "Y soy",
+    "text_2": "Desarolladora Frontend",
+    "text_3": "Trabajo con React, Next.js y TypeScript. Para mí, no es solo código, sino algo que realmente me apasiona. Me encanta ver el resultado de mi trabajo: cuando las líneas de código se convierten en un sitio web limpio y elegante, siempre me llena de satisfacción. Gracias a mi formación en arquitectura, presto especial atención a los detalles y la estética. Al mismo tiempo, soy una persona determinada que no se rinde cuando las cosas se ponen difíciles. Si existe una tarea, siempre existe una solución."
+  },
+  "Skills": {
+    "header": "Habilidades, herramientas y tecnologías"
+  },
+  "Portfolio": {
+    "header": "Portafolio",
+    "btn_more": "más",
+    "btn_demo": "Demo",
+    "btn_code": "Código",
+    "aria_close_info": "Cerrar la información del proyecto",
+    "aria_close_image": "Cerrar la imagen",
+    "aria_img": "Abrir imagen a pantalla completa"
+  },
+  "Contact": {
+    "copied": "copiado"
+  },
+  "UI": {
+    "aria_arrow": "Ir a la siguiente sección",
+    "aria_next_project": "Ir al siguiente proyecto",
+    "aria_prev_project": "Ir al proyecto anterior",
+    "aria_next_image": "Ir a la siguiente imagen",
+    "aria_prev_image": "Ir a la imagen anterior"
+  }
+}

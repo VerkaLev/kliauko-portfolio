@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Veronika Klevko Portfolio",
+    "description": "Portfolio website of Veronika Klevko, frontend developer. Projects, skills, and contact information."
+  },
+  "MainHeader": {
+    "name": "Veronika Klevko",
+    "short_name": "VK",
+    "about": "About",
+    "skills": "Skills",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "close_menu": "Close menu",
+    "open_menu": "Open menu",
+    "open_lang_menu": "Open menu of languages",
+    "aria_languages": "Languages",
+    "aria_change_lang": "Change language to"
+  },
+  "About": {
+    "greeting": "Hi, Myself",
+    "name": "Veronika",
+    "text_1": "And I'm a",
+    "text_2": "Frontend Developer",
+    "text_3": "I work with React, Next.js, and TypeScript. For me, it’s not just code - it’s something I’m truly passionate about. I love seeing the result of my work: watching lines of code turn into a clean and elegant website always brings me joy. Thanks to my background in architecture, I pay special attention to detail and aesthetics. At the same time, I’m a determined person who doesn’t give up when things get tough. If there is a challenge - there is always a solution!"
+  },
+  "Skills": {
+    "header": "Skills, tools and technologies I use"
+  },
+  "Portfolio": {
+    "header": "Portfolio",
+    "btn_more": "more",
+    "btn_demo": "Demo",
+    "btn_code": "Code",
+    "aria_close_info": "Close info about the project",
+    "aria_close_image": "Close the image",
+    "aria_img": "Open image in fullscreen"
+  },
+  "Contact": {
+    "copied": "copied"
+  },
+  "UI": {
+    "aria_arrow": "Go to next section",
+    "aria_next_project": "Go to the next project",
+    "aria_prev_project": "Go to the previous project",
+    "aria_next_image": "Go to the next image",
+    "aria_prev_image": "Go to the previous image"
+  }
+}

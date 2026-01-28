@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 16px;
+  scroll-behavior: smooth;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+:root {
+  --text-color: #fff;
+  --contrary-color: #0f172a;
+  --accent: rgb(124, 211, 255);
+  --contrary-accent: #d35fce;
+  --contrary-accent-transp: rgba(71, 104, 155, 0.9);
+  --contrary-accent-more: rgb(79, 133, 214);
+  --box-shadow: rgb(79, 133, 214, 0.5);
+  --bg-color: #0f172a;
+  --bg-contrary-color: #fff;
+  --bg-image: #edeff3;
+  --bg-image-transp: #1e293be5;
+  color-scheme: dark light;
+}
+
+[data-theme='light'] {
+  --text-color: #0f172a;
+  --contrary-color: #fff;
+  --accent: rgb(44, 121, 143);
+  --contrary-accent: rgb(124, 211, 255);
+  --contrary-accent-transp: rgba(143, 44, 117, 0.9);
+  --contrary-accent-more: #f54cec;
+  --bg-color: #fff;
+  --bg-contrary-color: #0f172a;
+  --bg-image: #1e293b;
+  color-scheme: light dark;
+}
