@@ -1,3 +1,15 @@
+import imgCreateYourElement1 from '@/assets/foto/create-your-element-1.jpg';
+import imgCreateYourElement2 from '@/assets/foto/create-your-element-2.jpg';
+import imgCreateYourElement3 from '@/assets/foto/create-your-element-3.jpg';
+import imgWeatherMixApp1 from '@/assets/foto/weather-mix-1.jpg';
+import imgWeatherMixApp2 from '@/assets/foto/weather-mix-2.jpg';
+import imgWeatherMixApp3 from '@/assets/foto/weather-mix-3.jpg';
+import imgWeatherMixApp4 from '@/assets/foto/weather-mix-3.jpg';
+import imgMyPortfolioApp1 from '@/assets/foto/kliauko-portfolio-1.jpg';
+import imgMyPortfolioApp2 from '@/assets/foto/kliauko-portfolio-2.jpg';
+import imgMyPortfolioApp3 from '@/assets/foto/kliauko-portfolio-3.jpg';
+import imgMyPortfolioApp4 from '@/assets/foto/kliauko-portfolio-4.jpg';
+
 export const projects = [
   {
     id: 1,
@@ -98,9 +110,9 @@ export const projects = [
       ),
     },
     preview: [
-      'src/assets/foto/create-your-element-1.jpg',
-      'src/assets/foto/create-your-element-2.jpg',
-      'src/assets/foto/create-your-element-3.jpg',
+      imgCreateYourElement1,
+      imgCreateYourElement2,
+      imgCreateYourElement3,
     ],
     code: 'https://github.com/VerkaLev/verkalev.github.io',
     demo: 'https://verkalev.github.io/',
@@ -268,10 +280,10 @@ export const projects = [
       ),
     },
     preview: [
-      'src/assets/foto/weather-mix-1.jpg',
-      'src/assets/foto/weather-mix-2.jpg',
-      'src/assets/foto/weather-mix-3.jpg',
-      'src/assets/foto/weather-mix-4.jpg',
+      imgWeatherMixApp1,
+      imgWeatherMixApp2,
+      imgWeatherMixApp3,
+      imgWeatherMixApp4,
     ],
     code: 'https://github.com/VerkaLev/weather-mix-next',
     demo: 'https://weather-mix-next.vercel.app/',
@@ -389,10 +401,10 @@ export const projects = [
       ),
     },
     preview: [
-      'src/assets/foto/kliauko-portfolio-1.jpg',
-      'src/assets/foto/kliauko-portfolio-2.jpg',
-      'src/assets/foto/kliauko-portfolio-3.jpg',
-      'src/assets/foto/kliauko-portfolio-4.jpg',
+      imgMyPortfolioApp1,
+      imgMyPortfolioApp2,
+      imgMyPortfolioApp3,
+      imgMyPortfolioApp4,
     ],
     code: 'https://github.com/VerkaLev/',
     demo: '',
