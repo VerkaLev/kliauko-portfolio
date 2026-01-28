@@ -1,12 +1,10 @@
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import { MdPlace } from 'react-icons/md';
 import { EnvelopeIcon } from '@heroicons/react/24/solid';
-import { FaPhoneSquareAlt } from 'react-icons/fa';
 import { useTranslation } from 'react-i18next';
 import { useCopyToClipboard } from '../../hooks/useCopyToClipboard';
 
 const contactIcons = [
-  { Icon: FaPhoneSquareAlt, text: '+34 612 28 60 61', id: 'copy' },
   { Icon: EnvelopeIcon, text: 'v.klevko.fd@gmail.com', id: 'copy' },
   {
     Icon: FaLinkedin,
