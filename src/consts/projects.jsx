@@ -4,7 +4,7 @@ import imgCreateYourElement3 from '@/assets/foto/create-your-element-3.jpg';
 import imgWeatherMixApp1 from '@/assets/foto/weather-mix-1.jpg';
 import imgWeatherMixApp2 from '@/assets/foto/weather-mix-2.jpg';
 import imgWeatherMixApp3 from '@/assets/foto/weather-mix-3.jpg';
-import imgWeatherMixApp4 from '@/assets/foto/weather-mix-3.jpg';
+import imgWeatherMixApp4 from '@/assets/foto/weather-mix-4.jpg';
 import imgMyPortfolioApp1 from '@/assets/foto/kliauko-portfolio-1.jpg';
 import imgMyPortfolioApp2 from '@/assets/foto/kliauko-portfolio-2.jpg';
 import imgMyPortfolioApp3 from '@/assets/foto/kliauko-portfolio-3.jpg';
